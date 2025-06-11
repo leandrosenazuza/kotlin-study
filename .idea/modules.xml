@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/kotlin-study.iml" filepath="$PROJECT_DIR$/.idea/kotlin-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-kotlin/learning-kotlin.iml" filepath="$PROJECT_DIR$/learning-kotlin/learning-kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/mumbling/mumbling.iml" filepath="$PROJECT_DIR$/mumbling/mumbling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-mix/string-mix.iml" filepath="$PROJECT_DIR$/string-mix/string-mix.iml" />
       <module fileurl="file://$PROJECT_DIR$/vowel-count/vowel-count.iml" filepath="$PROJECT_DIR$/vowel-count/vowel-count.iml" />
     </modules>
   </component>
