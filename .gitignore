@@ -1,0 +1,45 @@
+# Kotlin build output
+/build/
+/out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Maven (if used)
+target/
+
+# Kotlin-specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+
+# JetBrains user-specific files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+.idea/**/shelf/
+
+# Optional: ignore local run configs (unless shared across team)
+.idea/runConfigurations/
+
+# Android (if applicable)
+local.properties
