@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GrassHopper/GrassHopper.iml" filepath="$PROJECT_DIR$/GrassHopper/GrassHopper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MixedSum/MixedSum.iml" filepath="$PROJECT_DIR$/MixedSum/MixedSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kotlin-study.iml" filepath="$PROJECT_DIR$/.idea/kotlin-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning-kotlin/learning-kotlin.iml" filepath="$PROJECT_DIR$/learning-kotlin/learning-kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/mumbling/mumbling.iml" filepath="$PROJECT_DIR$/mumbling/mumbling.iml" />
